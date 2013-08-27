@@ -1,5 +1,8 @@
 ' Script to disable IPv6
 ' ---------- Body
+'
+' by RaveMaker - http://ravemaker.net
+
 DebugMode = "True"
 
 RegResultStr = readfromRegistry("HKLM\SYSTEM\CurrentControlSet\Services\Tcpip6\Parameters\DisabledComponents", "Blank")
