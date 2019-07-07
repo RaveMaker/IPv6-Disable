@@ -9,5 +9,6 @@ VB Script - Disable IPv6 script for Windows
 
 2. To remove Message Boxes  - change DebugMode to "False"
 
-by [RaveMaker][RaveMaker].
+Author: [RaveMaker][RaveMaker].
+
 [RaveMaker]: http://ravemaker.net
